@@ -1,0 +1,42 @@
+body {
+    background: #dfdfdf;
+}
+.title {
+    font-size: 18px;
+    margin: 0;
+}
+ul {
+    font-size: 14px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+li {
+    margin: 0 10px;
+}
+li:hover {
+    cursor: pointer;
+    color: #84cef1;
+}
+.k-button {
+    padding: 0;
+}
+.k-badge-container {
+    margin-right: 8px;
+}
+.social-section .k-icon {
+    margin: 0 4px;
+}
+.k-tabstrip > .k-content {
+    border-color: none !important;
+    color: #656565;
+    background-color: white;
+}
+.bordercolor{
+    border-style: solid;
+    border-color: #ff0000; /* red */
+}
+.itemsize{
+    width:10px;
+}
